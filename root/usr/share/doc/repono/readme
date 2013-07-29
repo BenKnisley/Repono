@@ -1,0 +1,59 @@
+Repono is an app that syncs your online Google Drive with a folder on your computer.
+
+Repono lets you sync any folder with your Google Drive, it could be a folder under your home directory, or on your desktop, or a whole partition. Best yet, it it can be named anything you like (unlike some other Google Drive clients). 
+What it does is it simply puts a icon in your panel, clicking on it gives you basic controls over Repono. Such as, Syncing now, opening the local folder, opening the online folder, and opening the settings dialog.
+
+
+Usage:
+Usage is simple.
+1.) MAKE SURE YOU HAVE GRIVE INSTALLED!
+If not go here: http://www.lbreda.com/grive/download and install the deb package that is right for you, or if you are capable, install from source.
+
+2.) Type (without quotes): "repono" into the terminal. This causes Repono to start and run in background.
+
+3.) <Optional> Add Repono to your startup applications (it is just better that way).
+
+4.) enjoy!
+
+
+Current Features:
+	- Google Drive folder can be named whatever you like
+	- You can force a sync whenever you like.
+	- You can change the amount of time between update.
+	- It is open source and free
+
+Features to be added soon:
+	- Add Pause Sync to menu	
+	- Add option in settings to start up automatically 
+	- Add Drag and Drop window to menu
+	- Update on file change, instead of on time update
+
+If you have any questions, concerns, suggestions, or problems email me benknisley@gmail.com.
+
+
+Copyrights and such:
+
+Repono Copyright (C) Ben Knisley
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+Repono is a front end for the command line Google Drive 
+client Grive, and comes with all its limitations. (http://www.lbreda.com/grive/start).
+
+Grive is released under GPLv2, and belongs to its authors.
+
+
+Google Drive is a trademark of Google Inc. Use of this trademark is 
+subject to Google Permissions.

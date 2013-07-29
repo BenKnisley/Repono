@@ -1,0 +1,2 @@
+#!/bin/bash
+'/usr/share/repono/main.py' && exit
