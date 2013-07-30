@@ -259,7 +259,7 @@ def main(*args):
 
 main()
 gtk.main()
-os.system('/usr/share/repono/settings.py & exit')
+os.system('/usr/share/repono/main.py & exit')
 
 
 
