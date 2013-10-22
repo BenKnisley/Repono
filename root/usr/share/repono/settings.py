@@ -105,7 +105,7 @@ def win1(*arg):
 	#Ok Button
 	ok_button_win1 = gtk.Button()
 	ok_button_win1.set_label('    OK    ')
-	lay1_win1.put(ok_button_win1, 175, 250)
+	lay1_win1.put(ok_button_win1, 170, 250)
 	ok_button_win1.connect("clicked", exit_save)
 	#Cancel Button
 	cancel_button_win1 = gtk.Button()
